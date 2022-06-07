@@ -75,9 +75,5 @@ API: http://localhost:8081/api/
 
 Перед запуском убедитесь, что запущен сервис доставки.
 
-Сервис доставки: https://gitlab.com/dive-into-golang-course/r_r_abdulov/homework_advanced_part2_grpc
-
-## Задание: Шаблон "Таймаут"
-
-Это задание сделано в отдельном репозитории: https://gitlab.com/dive-into-golang-course/r_r_abdulov/homework_advanced_part2_timeouttemplate
+Сервис доставки: https://github.com/ramir7887/homeWorkAdvancedPart2_gRPC_service
 
